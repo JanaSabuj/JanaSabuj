@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Website: https://janasabuj.github.io
-### Blog: https://medium.com/@SabujJanaCodes
+### 🤖 Website: https://janasabuj.github.io
+### 🐲 Blog: https://medium.com/@SabujJanaCodes
