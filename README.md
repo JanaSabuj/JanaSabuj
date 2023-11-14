@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🤖 https://janasabuj.github.io
-### 🐲 Blog: https://medium.com/@SabujJanaCodes
+### 🐲 https://medium.com/@SabujJanaCodes
